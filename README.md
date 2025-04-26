@@ -40,7 +40,8 @@ RegisterNumber: 212224100046
 
 
 ## Output:
-![Screenshot 2025-04-25 213935](https://github.com/user-attachments/assets/191e283f-80ee-486d-bbfb-0cdacdb01dd7)
+![image](https://github.com/user-attachments/assets/b1c0726b-e7dc-41df-b861-fb5ddafe6e5d)
+
 
 
 ## Result:
